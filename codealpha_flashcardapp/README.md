@@ -41,9 +41,12 @@ npm install
 
 Start the app:
 npm start
-
-App runs at:
+Local Development:
 http://localhost:3000
+
+Live Demo:
+https://alekya8143.github.io/codealpha/
+
 Developed By
 
 Golla Alekya
