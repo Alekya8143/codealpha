@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/codealpha/codealpha_flashcardapp/static/css/main.f0e88f3d.css",
-    "main.js": "/codealpha/codealpha_flashcardapp/static/js/main.30867826.js",
-    "index.html": "/codealpha/codealpha_flashcardapp/index.html",
-    "main.f0e88f3d.css.map": "/codealpha/codealpha_flashcardapp/static/css/main.f0e88f3d.css.map",
-    "main.30867826.js.map": "/codealpha/codealpha_flashcardapp/static/js/main.30867826.js.map"
+    "main.css": "/codealpha/static/css/main.f0e88f3d.css",
+    "main.js": "/codealpha/static/js/main.30867826.js",
+    "index.html": "/codealpha/index.html",
+    "main.f0e88f3d.css.map": "/codealpha/static/css/main.f0e88f3d.css.map",
+    "main.30867826.js.map": "/codealpha/static/js/main.30867826.js.map"
   },
   "entrypoints": [
     "static/css/main.f0e88f3d.css",
